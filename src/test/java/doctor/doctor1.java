@@ -7,7 +7,8 @@ public class doctor1 {
 		System.out.println("helloo..");
 		
 		
-		
+		int id=201;
+		System.out.println(id);
 	}
 
 
